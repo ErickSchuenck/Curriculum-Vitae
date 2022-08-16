@@ -84,7 +84,6 @@ body{
 .contact_info ul li{
     list-style: none;
     margin: 10px 0;
-    cursor: pointer;
 }
 .contact_info ul li .icon{
     display: inline-block;
